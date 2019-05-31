@@ -1,0 +1,6 @@
+framework module MPCore {
+  umbrella header "MPCore.h"
+
+  export *
+  module * { export * }
+}
